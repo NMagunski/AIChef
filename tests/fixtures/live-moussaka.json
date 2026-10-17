@@ -1,0 +1,227 @@
+{
+  "description": "Recorded from the single authorized Task 7.2 live request. Replay only; never regenerate in routine tests.",
+  "model": "gpt-5.6-luna",
+  "canonicalRecipeId": "ai-b67a548662bf266c",
+  "output": {
+    "status": "recipe",
+    "clarification": null,
+    "recipe": {
+      "title": "Традиционна българска мусака с картофи и кайма",
+      "description": "Сочна мусака с картофи, ароматна кайма и класическа заливка от кисело мляко и яйца.",
+      "servings": 4,
+      "preparationTime": 25,
+      "cookingTime": 60,
+      "difficulty": "Средна",
+      "cuisine": "Българска",
+      "category": "Основно ястие",
+      "ingredients": [
+        {
+          "name": "картофи",
+          "quantity": 1000,
+          "unit": "g",
+          "note": "обелени и нарязани на малки кубчета",
+          "availability": "unspecified"
+        },
+        {
+          "name": "смляно месо",
+          "quantity": 500,
+          "unit": "g",
+          "note": "свинско или смес",
+          "availability": "unspecified"
+        },
+        {
+          "name": "лук",
+          "quantity": 1,
+          "unit": "piece",
+          "note": "ситно нарязан",
+          "availability": "unspecified"
+        },
+        {
+          "name": "домати",
+          "quantity": 400,
+          "unit": "g",
+          "note": "нарязани или консервирани",
+          "availability": "unspecified"
+        },
+        {
+          "name": "олио",
+          "quantity": 45,
+          "unit": "ml",
+          "note": null,
+          "availability": "unspecified"
+        },
+        {
+          "name": "вода",
+          "quantity": 250,
+          "unit": "ml",
+          "note": null,
+          "availability": "unspecified"
+        },
+        {
+          "name": "сол",
+          "quantity": null,
+          "unit": null,
+          "note": "на вкус",
+          "availability": "unspecified"
+        },
+        {
+          "name": "черен пипер",
+          "quantity": null,
+          "unit": null,
+          "note": "на вкус",
+          "availability": "unspecified"
+        },
+        {
+          "name": "червен пипер",
+          "quantity": 1,
+          "unit": "tsp",
+          "note": null,
+          "availability": "unspecified"
+        },
+        {
+          "name": "кисело мляко",
+          "quantity": 400,
+          "unit": "g",
+          "note": null,
+          "availability": "unspecified"
+        },
+        {
+          "name": "яйца",
+          "quantity": 2,
+          "unit": "piece",
+          "note": null,
+          "availability": "unspecified"
+        },
+        {
+          "name": "брашно",
+          "quantity": 30,
+          "unit": "g",
+          "note": null,
+          "availability": "unspecified"
+        }
+      ],
+      "instructions": [
+        {
+          "number": 1,
+          "title": "Подготовка",
+          "description": "Загрейте фурната до 190°C. Подгответе отделни дъски и прибори за суровата кайма и за останалите продукти, за да избегнете кръстосано замърсяване.",
+          "durationMinutes": 10,
+          "temperatureC": 190,
+          "tip": "Измийте ръцете и всички повърхности след работа със суровото месо.",
+          "ingredientIndices": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Приготвяне на месната смес",
+          "description": "Загрейте половината олио в дълбок тиган. Задушете лука до омекване, добавете каймата и я раздробете добре. Гответе, докато месото промени цвета си и не останат сурови участъци. Добавете червения пипер, доматите, солта и черния пипер, разбъркайте и оставете сместа да къкри кратко.",
+          "durationMinutes": 15,
+          "temperatureC": null,
+          "tip": "Използвайте отделна лъжица за суровата кайма и за опитване или сервиране.",
+          "ingredientIndices": [
+            1,
+            2,
+            3,
+            6,
+            7,
+            8,
+            4
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Подреждане",
+          "description": "Намажете тава с останалото олио. Разпределете половината картофи, посолете леко, покрийте с месната смес и добавете останалите картофи. Налейте водата по края на тавата.",
+          "durationMinutes": 5,
+          "temperatureC": null,
+          "tip": "Нарязването на картофите на еднакви кубчета помага да се изпекат равномерно.",
+          "ingredientIndices": [
+            0,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Първо печене",
+          "description": "Покрийте тавата с алуминиево фолио и печете, докато картофите омекнат почти напълно.",
+          "durationMinutes": 35,
+          "temperatureC": 190,
+          "tip": "Не поставяйте фолиото в контакт с нагревателните елементи.",
+          "ingredientIndices": [
+            0,
+            1,
+            2,
+            3,
+            5
+          ]
+        },
+        {
+          "number": 5,
+          "title": "Заливка",
+          "description": "Разбийте киселото мляко, яйцата и брашното до гладка смес. Извадете тавата, отстранете фолиото и разпределете заливката равномерно отгоре.",
+          "durationMinutes": 5,
+          "temperatureC": null,
+          "tip": "Разбийте брашното постепенно, за да не останат бучки.",
+          "ingredientIndices": [
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "number": 6,
+          "title": "Финално изпичане и проверка",
+          "description": "Върнете мусаката във фурната без фолио и печете до златиста коричка и пълно стягане на заливката. Проверете с кухненски термометър в центъра: ястието с кайма и яйца трябва да достигне вътрешна температура най-малко 71°C. Цветът сам по себе си не доказва безопасност.",
+          "durationMinutes": 20,
+          "temperatureC": 190,
+          "tip": "Оставете мусаката да почине 10 минути преди нарязване.",
+          "ingredientIndices": [
+            1,
+            9,
+            10
+          ]
+        },
+        {
+          "number": 7,
+          "title": "Сервиране",
+          "description": "Нарежете на порции и сервирайте топла.",
+          "durationMinutes": 10,
+          "temperatureC": null,
+          "tip": "Съхранявайте остатъците в хладилник след като изстинат леко.",
+          "ingredientIndices": [
+            0,
+            1,
+            9,
+            10
+          ]
+        }
+      ],
+      "cookingTips": [
+        "Нарязвайте картофите на малки и равни кубчета за равномерно изпичане.",
+        "Не препълвайте тигана при запържването на каймата, за да се сготви добре.",
+        "Задължително проверете вътрешната температура в центъра на ястието с кухненски термометър."
+      ],
+      "tags": [
+        "мусака",
+        "българска кухня",
+        "картофи",
+        "кайма",
+        "основно ястие"
+      ]
+    }
+  }
+}

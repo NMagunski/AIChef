@@ -1,0 +1,6 @@
+.panel { padding: clamp(1.5rem, 5vw, 4rem); background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-lg); border-top: 4px solid var(--color-accent); }
+.badge { display: inline-flex; align-items: center; gap: var(--space-2); padding: var(--space-2) var(--space-3); border-radius: 2rem; background: var(--color-primary-soft); color: var(--color-primary); font-size: 0.8rem; font-weight: 600; }
+.title { max-width: 22ch; margin: var(--space-6) 0 var(--space-4); font-size: clamp(2rem, 5vw, 3.5rem); line-height: 1.15; letter-spacing: -0.035em; overflow-wrap: anywhere; }
+.description { max-width: 55ch; margin: 0; color: var(--color-muted); }
+.action { display: inline-flex; margin-top: var(--space-8); padding: var(--space-3) var(--space-6); border-radius: var(--radius-sm); color: white; background: var(--color-primary); font-weight: 600; }
+.action:hover { background: #1e4533; }

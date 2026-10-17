@@ -1,0 +1,14 @@
+{
+  "description": "Sanitized recording from the single authorized Task 7.1 live attempt. Routine tests replay this response and never call OpenAI.",
+  "configuredModel": "gpt-5.6-luna",
+  "providerCode": "credit_balance_exhausted",
+  "providerType": "insufficient_quota",
+  "httpStatus": 429,
+  "body": {
+    "error": {
+      "code": "RATE_LIMIT",
+      "message": "Достигнат е лимитът за заявки. Изчакай минута и опитай отново.",
+      "retryable": true
+    }
+  }
+}

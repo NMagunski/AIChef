@@ -1,0 +1,5 @@
+.notice { margin-block: .75rem; font-size: .8rem; line-height: 1.55; color: var(--color-text, #252525); overflow-wrap: anywhere; }
+.notice summary { cursor: pointer; min-height: 44px; display: list-item; padding-block: .6rem; color: var(--color-primary, #285943); }
+.notice summary:focus-visible { outline: 2px solid #285943; outline-offset: 3px; border-radius: 4px; }
+.notice ul { padding-inline-start: 1.25rem; }
+.notice p { margin-top: .5rem; opacity: .8; }

@@ -1,0 +1,89 @@
+.card { --source-color: #c24919; position: relative; display: flex; flex-direction: column; min-width: 0; padding: 4px; border: 1px solid #f1e9df; border-radius: 17px; background: #fffefd; box-shadow: 0 4px 18px #69451e06; transition: transform .2s, box-shadow .2s; }
+.card:hover { transform: translateY(-3px); box-shadow: 0 8px 23px #69451e12; }
+.ai { --source-color: #285943; }
+.photoLink { display: block; flex-shrink: 0; position: relative; overflow: hidden; border-radius: 12px; aspect-ratio: 2.05; background: #e8dbc5; }
+.photoLink > svg { transition: transform .3s; }
+.card:hover .photoLink > svg { transform: scale(1.035); }
+.sourceBadge { position: absolute; top: 13px; left: 13px; display: inline-flex; align-items: center; gap: 6px; max-width: calc(100% - 62px); border-radius: 25px; padding: 6px 10px; color: #fff; background: #e36123; font-size: 11px; font-weight: 700; line-height: 1.2; }
+.ai .sourceBadge { color: #fff6bc; background: #285943; }
+.sourceBadge > svg { flex-shrink: 0; }
+.demoBadge { display: inline; border-left: 1px solid #fff7; padding-left: 5px; font-size: 9px; font-weight: 500; }
+.favorite { position: absolute; top: 5px; right: 5px; display: grid; place-items: center; width: 44px; height: 44px; padding: 0; border: 0; border-radius: 50%; background: transparent; color: white; filter: drop-shadow(0 1px 2px #58340bd0); cursor: pointer; }
+.favorite:hover { background: #0002; }
+.saved { color: #ff9465; }
+.body { display: flex; flex: 1; flex-direction: column; padding: 10px 13px 5px; min-width: 0; }
+.body h3 { margin: 0 0 12px; font-family: var(--font-display); font-size: clamp(17px, 1.8vw, 22px); line-height: 1.17; letter-spacing: -.6px; color: #18241c; overflow-wrap: anywhere; }
+.body h3 a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.meta { display: flex; flex-wrap: wrap; gap: 8px 20px; margin: 0 0 13px; padding: 0; list-style: none; font-size: 12px; }
+.meta li { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; }
+.meta svg { flex-shrink: 0; color: #bf4e16; }
+.description { margin: 0 0 14px; font-size: 14px; line-height: 1.45; color: #605d57; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; list-style: none; padding: 0; margin: auto 0 13px; }
+.tags li { display: inline-block; padding: 6px 9px; border-radius: 13px; color: #93451e; background: #fff2e8; font-size: 10px; line-height: 1.25; }
+.ai .tags li { color: #384439; background: #f5f3ed; border: 1px solid #ebe7dd; }
+.recipeButton { display: flex; align-items: center; justify-content: center; gap: 9px; padding: 9px 12px; min-height: 44px; border: 1px solid #e56b39; color: #b84212; border-radius: 30px; font-size: 13px; font-weight: 600; }
+.recipeButton:hover { background: #fff2e8; }
+.ai .recipeButton { border-color: #285943; color: #fff9c6; background: linear-gradient(115deg, #285943, #336a3c); }
+.ai .recipeButton:hover { background: #214b37; }
+.sourceNote { margin: 8px 0 0; min-height: 18px; text-align: center; font-size: 10px; color: #68645c; }
+.sourceNote a { text-decoration: underline; }
+.sourceNote, .description, .tags li { overflow-wrap: anywhere; }
+.tags li { max-width: 100%; }
+.compact { padding: 3px; border-radius: 15px; }
+.compact .photoLink { aspect-ratio: 2.12; border-radius: 11px; }
+.compact .body { padding: 9px 8px 5px; }
+.compact h3 { font-size: 16px; line-height: 1.2; margin-bottom: 9px; }
+.compact .meta { font-size: 10px; gap: 6px 9px; margin-bottom: 10px; }
+.compact .meta svg { width: 13px; height: 13px; }
+.compact .description { font-size: 12px; margin-bottom: 10px; }
+.compact .tags { gap: 4px; margin-bottom: 10px; }
+.compact .tags li { font-size: 9px; padding: 4px 7px; }
+.compact .sourceBadge { top: 10px; left: 10px; gap: 4px; font-size: 9px; padding: 5px 7px; }
+.compact .sourceBadge > svg { width: 12px; height: 12px; }
+.compact .demoBadge { font-size: 8px; padding-left: 4px; }
+.compact .recipeButton { font-size: 11px; padding-inline: 7px; }
+.compact .sourceNote { font-size: 9px; }
+@media (max-width: 1100px) and (min-width: 701px) {
+ .body { padding-inline: 9px; }
+ .meta { font-size: 11px; gap: 7px 12px; }
+ .description { font-size: 13px; }
+ .sourceBadge { top: 11px; left: 11px; font-size: 10px; }
+ .compact h3 { font-size: 14px; }
+}
+@media (max-width: 700px) {
+ .card { padding: 4px; border-radius: 16px; }
+ .photoLink { aspect-ratio: 2.75; border-radius: 11px; }
+ .body { padding: 9px 10px 5px; }
+ .body h3 { font-family: var(--font-sans); font-size: 17px; line-height: 1.2; margin-bottom: 11px; letter-spacing: -.4px; }
+ .meta { font-size: 11px; gap: 7px 16px; margin-bottom: 10px; }
+ .meta svg { width: 14px; height: 14px; }
+ .description { font-size: 12px; margin-bottom: 10px; }
+ .tags { gap: 5px; margin-bottom: 11px; }
+ .tags li { font-size: 9px; padding: 5px 8px; }
+ .sourceBadge { top: 10px; left: 11px; padding: 5px 9px; font-size: 10px; }
+ .demoBadge { font-size: 8px; }
+ .recipeButton { font-size: 12px; min-height: 44px; padding-block: 8px; }
+ .sourceNote { font-size: 9px; }
+ .compact .photoLink { aspect-ratio: 1.9; }
+ .compact .body { padding: 8px 5px 5px; }
+ .compact h3 { font-size: 13px; letter-spacing: -.3px; }
+ .compact .sourceBadge { left: 7px; top: 9px; font-size: 8px; gap: 3px; padding: 4px 5px; max-width: calc(100% - 30px); }
+ .compact .sourceBadge > svg { display: none; }
+ .compact .demoBadge { font-size: 7px; padding-left: 3px; }
+ .compact .favorite { top: 3px; right: 1px; width: 34px; height: 34px; }
+ .compact .favorite::before { content: ''; position: absolute; inset: -5px; }
+ .compact .favorite svg { width: 19px; }
+ .compact .meta { font-size: 9px; gap: 5px 8px; }
+ .compact .meta svg { width: 12px; height: 12px; }
+ .compact .description { font-size: 11px; }
+ .compact .tags li { font-size: 8px; padding: 4px 5px; }
+ .compact .recipeButton { font-size: 10px; gap: 4px; }
+ .compact .recipeButton svg { width: 14px; }
+}
+@media (prefers-reduced-motion: reduce) {
+ .card, .photoLink > svg { transition: none; }
+ .card:hover, .card:hover .photoLink > svg { transform: none; }
+}
+
+/* Source identity overrides shared AI card styling. */
+.alternative .sourceBadge { background: #715293; color: white; }

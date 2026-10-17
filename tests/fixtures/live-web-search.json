@@ -1,0 +1,1174 @@
+{
+  "provenance": "Sanitized first-page discovery metadata recorded during the five authorized Task 8.1 SerpApi calls. No full recipes, snippets, images, credentials or raw provider URLs. App pagination replays only that captured first page.",
+  "requests": 5,
+  "queries": [
+    {
+      "query": "Мусака",
+      "observations": {
+        "httpStatus": 200,
+        "elapsedMs": 1012,
+        "providerSeconds": 0.44,
+        "organicResults": 7,
+        "relevantUniqueRecipeCandidates": 6,
+        "duplicatesBeforeFix": 0,
+        "duplicatesAfterFix": 0,
+        "invalidUrls": 0,
+        "imageMetadataCount": 2,
+        "usefulDescriptionCount": 7,
+        "topFiveDomains": [
+          "www.supichka.com",
+          "recepti.gotvach.bg",
+          "yoanna.bg",
+          "zvezdev.com",
+          "bg.wikipedia.org"
+        ]
+      },
+      "pages": [
+        {
+          "results": [
+            {
+              "id": "web-9ffda3d344a09ce5",
+              "title": "Мусака",
+              "url": "https://www.supichka.com/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B0/320/%D0%BC%D1%83%D1%81%D0%B0%D0%BA%D0%B0",
+              "domain": "supichka.com",
+              "sourceName": "Supichka",
+              "description": "",
+              "imageUrl": null,
+              "rank": 1,
+              "discoveredAt": "2026-10-17T15:34:17.570Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-4cfe108698d85dc8",
+              "title": "Традиционна българска мусака (с Видео) - Рецепти",
+              "url": "https://recepti.gotvach.bg/r-40414-%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0_%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0_%D0%BC%D1%83%D1%81%D0%B0%D0%BA%D0%B0",
+              "domain": "recepti.gotvach.bg",
+              "sourceName": "Gotvach.bg",
+              "description": "",
+              "imageUrl": null,
+              "rank": 2,
+              "discoveredAt": "2026-10-17T15:34:17.570Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": "0:2",
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        },
+        {
+          "results": [
+            {
+              "id": "web-8c05f44c379e66a4",
+              "title": "Как се прави мусака и вкусна заливка",
+              "url": "https://yoanna.bg/recepti/musaka",
+              "domain": "yoanna.bg",
+              "sourceName": "Йоанна",
+              "description": "",
+              "imageUrl": null,
+              "rank": 3,
+              "discoveredAt": "2026-10-17T15:34:17.570Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-7e3d0a86e9f1d774",
+              "title": "Домашна мусака » Zvezdev.com",
+              "url": "https://zvezdev.com/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B0/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B0-%D0%BC%D1%83%D1%81%D0%B0%D0%BA%D0%B0",
+              "domain": "zvezdev.com",
+              "sourceName": "Zvezdev",
+              "description": "",
+              "imageUrl": null,
+              "rank": 4,
+              "discoveredAt": "2026-10-17T15:34:17.570Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": "0:4",
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        },
+        {
+          "results": [
+            {
+              "id": "web-7bdd9960fa0da598",
+              "title": "Мусака",
+              "url": "https://bg.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D0%B0%D0%BA%D0%B0",
+              "domain": "bg.wikipedia.org",
+              "sourceName": "Wikipedia",
+              "description": "",
+              "imageUrl": null,
+              "rank": 5,
+              "discoveredAt": "2026-10-17T15:34:17.570Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-e16fd7a2427630f0",
+              "title": "Класическа мусака по два начина - Любими рецепти",
+              "url": "https://gotvi.lidl.bg/recipes/klasicheska-musaka-po-dva-nachina",
+              "domain": "gotvi.lidl.bg",
+              "sourceName": "Lidl.bg",
+              "description": "",
+              "imageUrl": null,
+              "rank": 6,
+              "discoveredAt": "2026-10-17T15:34:17.570Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": "0:6",
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        },
+        {
+          "results": [
+            {
+              "id": "web-612b5d90fc54905c",
+              "title": "Мусака без зеленчуци - кето и карнивор",
+              "url": "https://nosugar.bg/musaka-bez-zelenchuczi-keto-i-karnivor",
+              "domain": "nosugar.bg",
+              "sourceName": "Nosugar.bg",
+              "description": "",
+              "imageUrl": null,
+              "rank": 7,
+              "discoveredAt": "2026-10-17T15:34:17.570Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": null,
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        }
+      ]
+    },
+    {
+      "query": "Пиле с ориз",
+      "observations": {
+        "httpStatus": 200,
+        "elapsedMs": 26479,
+        "providerSeconds": 26.11,
+        "organicResults": 7,
+        "relevantUniqueRecipeCandidates": 4,
+        "duplicatesBeforeFix": 0,
+        "duplicatesAfterFix": 1,
+        "invalidUrls": 0,
+        "imageMetadataCount": 7,
+        "usefulDescriptionCount": 7,
+        "topFiveDomains": [
+          "www.supichka.com",
+          "recepti.gotvach.bg",
+          "zvezdev.com",
+          "zvezdev.com",
+          "tastyhouse.bg"
+        ]
+      },
+      "pages": [
+        {
+          "results": [
+            {
+              "id": "web-b2eed2c4e2c4f9be",
+              "title": "Пиле с ориз",
+              "url": "https://www.supichka.com/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B0/295/%D0%BF%D0%B8%D0%BB%D0%B5-%D1%81-%D0%BE%D1%80%D0%B8%D0%B7",
+              "domain": "supichka.com",
+              "sourceName": "Supichka",
+              "description": "",
+              "imageUrl": null,
+              "rank": 1,
+              "discoveredAt": "2026-10-17T15:34:44.053Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-a34b8c32098a9648",
+              "title": "Пиле с ориз - класическа рецепта - Рецепти - Gotvach.bg",
+              "url": "https://recepti.gotvach.bg/r-80761-%D0%9F%D0%B8%D0%BB%D0%B5_%D1%81_%D0%BE%D1%80%D0%B8%D0%B7_-_%D0%BA%D0%BB%D0%B0%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0_%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B0",
+              "domain": "recepti.gotvach.bg",
+              "sourceName": "Gotvach.bg",
+              "description": "",
+              "imageUrl": null,
+              "rank": 2,
+              "discoveredAt": "2026-10-17T15:34:44.053Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": "0:2",
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        },
+        {
+          "results": [
+            {
+              "id": "web-284ab48730a44c35",
+              "title": "Пиле с ориз » Zvezdev.com",
+              "url": "https://zvezdev.com/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B0/%D0%BF%D0%B8%D0%BB%D0%B5-%D1%81-%D0%BE%D1%80%D0%B8%D0%B7",
+              "domain": "zvezdev.com",
+              "sourceName": "Zvezdev",
+              "description": "",
+              "imageUrl": null,
+              "rank": 3,
+              "discoveredAt": "2026-10-17T15:34:44.053Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-dcd270f31693db73",
+              "title": "Лесна и Вкусна Рецепта за Пиле с Ориз - Tasty House",
+              "url": "https://tastyhouse.bg/dzi/blog/post/lesna-i-vkusna-recepta-za-pile-s-oriz-1",
+              "domain": "tastyhouse.bg",
+              "sourceName": "tastyhouse.bg",
+              "description": "",
+              "imageUrl": null,
+              "rank": 5,
+              "discoveredAt": "2026-10-17T15:34:44.053Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": "0:4",
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        },
+        {
+          "results": [
+            {
+              "id": "web-f5bad218e7939068",
+              "title": "Пиле с ориз – вкус от детството, който винаги стопля ...",
+              "url": "https://www.facebook.com/bonappeti/videos/-%D0%BF%D0%B8%D0%BB%D0%B5-%D1%81-%D0%BE%D1%80%D0%B8%D0%B7-%D0%B2%D0%BA%D1%83%D1%81-%D0%BE%D1%82-%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE%D1%82%D0%BE-%D0%BA%D0%BE%D0%B9%D1%82%D0%BE-%D0%B2%D0%B8%D0%BD%D0%B0%D0%B3%D0%B8-%D1%81%D1%82%D0%BE%D0%BF%D0%BB%D1%8F-%D0%B4%D1%83%D1%88%D0%B0%D1%82%D0%B0%D1%81%D0%BE%D1%87%D0%BD%D0%BE-%D0%BF%D0%B8%D0%BB%D0%B5-%D0%BF%D1%83%D1%85%D0%BA%D0%B0%D0%B2-%D0%BE%D1%80%D0%B8%D0%B7-/783851730956362",
+              "domain": "facebook.com",
+              "sourceName": "Facebook · Бон Апети / Bon Apeti",
+              "description": "",
+              "imageUrl": null,
+              "rank": 6,
+              "discoveredAt": "2026-10-17T15:34:44.053Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-2d70f19ca4ba76fa",
+              "title": "Пиле с ориз В българската кухня има няколко рецепти ...",
+              "url": "https://www.facebook.com/instantpotBG/videos/%D0%BF%D0%B8%D0%BB%D0%B5-%D1%81-%D0%BE%D1%80%D0%B8%D0%B7%D0%B2-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%82%D0%B0-%D0%BA%D1%83%D1%85%D0%BD%D1%8F-%D0%B8%D0%BC%D0%B0-%D0%BD%D1%8F%D0%BA%D0%BE%D0%BB%D0%BA%D0%BE-%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B8-%D1%81-%D0%BF%D0%B8%D0%BB%D0%B5-%D0%BA%D0%BE%D0%B8%D1%82%D0%BE-%D0%B2%D0%B8%D0%BD%D0%B0%D0%B3%D0%B8-%D0%BD%D0%B8-%D1%81%D0%BF%D0%B0%D1%81%D1%8F%D0%B2/866910855578081",
+              "domain": "facebook.com",
+              "sourceName": "Facebook · Instant Pot Bulgaria",
+              "description": "",
+              "imageUrl": null,
+              "rank": 7,
+              "discoveredAt": "2026-10-17T15:34:44.053Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": null,
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        }
+      ]
+    },
+    {
+      "query": "Шкембе чорба",
+      "observations": {
+        "httpStatus": 200,
+        "elapsedMs": 1191,
+        "providerSeconds": 0.83,
+        "organicResults": 8,
+        "relevantUniqueRecipeCandidates": 3,
+        "duplicatesBeforeFix": 0,
+        "duplicatesAfterFix": 0,
+        "invalidUrls": 0,
+        "imageMetadataCount": 3,
+        "usefulDescriptionCount": 8,
+        "topFiveDomains": [
+          "www.youtube.com",
+          "zvezdev.com",
+          "recepti.gotvach.bg",
+          "www.youtube.com",
+          "zvezdev.com"
+        ]
+      },
+      "pages": [
+        {
+          "results": [
+            {
+              "id": "web-cf8e7f7a1df6d1fc",
+              "title": "ШКЕМБЕ ЧОРБА с прясно мляко – класическа българска ...",
+              "url": "https://www.youtube.com/watch?v=bi1KjL6lcEE&xstg=CAMSBhUDze3xHw%3D%3D",
+              "domain": "youtube.com",
+              "sourceName": "YouTube · Готви с Краси",
+              "description": "",
+              "imageUrl": null,
+              "rank": 1,
+              "discoveredAt": "2026-10-17T15:34:45.242Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-f274421739c41baf",
+              "title": "Шкембе чорба с кисело мляко",
+              "url": "https://zvezdev.com/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B0/%D0%A8%D0%BA%D0%B5%D0%BC%D0%B1%D0%B5-%D1%87%D0%BE%D1%80%D0%B1%D0%B0-%D1%81-%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D0%BE-%D0%BC%D0%BB%D1%8F%D0%BA%D0%BE",
+              "domain": "zvezdev.com",
+              "sourceName": "Zvezdev",
+              "description": "",
+              "imageUrl": null,
+              "rank": 2,
+              "discoveredAt": "2026-10-17T15:34:45.242Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": "0:2",
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        },
+        {
+          "results": [
+            {
+              "id": "web-681a39b449144e50",
+              "title": "Шкембе чорба Традиция (с Видео) - Рецепта | Gotvach.bg",
+              "url": "https://recepti.gotvach.bg/r-277312-%D0%A8%D0%BA%D0%B5%D0%BC%D0%B1%D0%B5_%D1%87%D0%BE%D1%80%D0%B1%D0%B0_%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D1%8F",
+              "domain": "recepti.gotvach.bg",
+              "sourceName": "Gotvach.bg",
+              "description": "",
+              "imageUrl": null,
+              "rank": 3,
+              "discoveredAt": "2026-10-17T15:34:45.242Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-3de06c3cc3d75918",
+              "title": "Tripe soup in our style: The secret of the perfect consistency ...",
+              "url": "https://www.youtube.com/watch?v=pkngo71F_QY&xstg=CAMSBhUDze3xHw%3D%3D",
+              "domain": "youtube.com",
+              "sourceName": "YouTube · Магията на готвенето с Дари",
+              "description": "",
+              "imageUrl": null,
+              "rank": 4,
+              "discoveredAt": "2026-10-17T15:34:45.242Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": "0:4",
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        },
+        {
+          "results": [
+            {
+              "id": "web-cbafb1d8a7cc9682",
+              "title": "Шкембе чорба » Zvezdev.com",
+              "url": "https://zvezdev.com/index.php?%2F%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B0%2F%D1%88%D0%BA%D0%B5%D0%BC%D0%B1%D0%B5-%D1%87%D0%BE%D1%80%D0%B1%D0%B0-3=",
+              "domain": "zvezdev.com",
+              "sourceName": "Zvezdev",
+              "description": "",
+              "imageUrl": null,
+              "rank": 5,
+              "discoveredAt": "2026-10-17T15:34:45.242Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-05895e2a417df532",
+              "title": "КАК СЕ ГОТВИ ШКЕМБЕ ЧОРБА",
+              "url": "https://www.youtube.com/watch?v=u744yBq0EI4&xstg=CAMSBhUDze3xHw%3D%3D",
+              "domain": "youtube.com",
+              "sourceName": "YouTube · ГОТВЕНЕ ЗА НАЧИНАЕЩИ",
+              "description": "",
+              "imageUrl": null,
+              "rank": 6,
+              "discoveredAt": "2026-10-17T15:34:45.242Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": "0:6",
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        },
+        {
+          "results": [
+            {
+              "id": "web-4c123230803bbf34",
+              "title": "Шкембе чорба с прясно мляко - 55 Рецепти - Gotvach.bg",
+              "url": "https://recepti.gotvach.bg/shkembechorbi/%D0%9F%D1%80%D1%8F%D1%81%D0%BD%D0%BE_%D0%9C%D0%BB%D1%8F%D0%BA%D0%BE",
+              "domain": "recepti.gotvach.bg",
+              "sourceName": "Gotvach.bg",
+              "description": "",
+              "imageUrl": null,
+              "rank": 7,
+              "discoveredAt": "2026-10-17T15:34:45.242Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-85c873da8e1bf8de",
+              "title": "Приготвяне на Шкембе Чорба - 23 Предложения",
+              "url": "https://gotvach.bg/izbrano/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D0%B2%D1%8F%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%A8%D0%BA%D0%B5%D0%BC%D0%B1%D0%B5-%D0%A7%D0%BE%D1%80%D0%B1%D0%B0",
+              "domain": "gotvach.bg",
+              "sourceName": "Gotvach.bg",
+              "description": "",
+              "imageUrl": null,
+              "rank": 8,
+              "discoveredAt": "2026-10-17T15:34:45.242Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": null,
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        }
+      ]
+    },
+    {
+      "query": "Свинско с картофи на фурна",
+      "observations": {
+        "httpStatus": 200,
+        "elapsedMs": 863,
+        "providerSeconds": 0.44,
+        "organicResults": 7,
+        "relevantUniqueRecipeCandidates": 5,
+        "duplicatesBeforeFix": 0,
+        "duplicatesAfterFix": 0,
+        "invalidUrls": 0,
+        "imageMetadataCount": 2,
+        "usefulDescriptionCount": 7,
+        "topFiveDomains": [
+          "recepti.gotvach.bg",
+          "tastyhouse.bg",
+          "www.soulty.bg",
+          "zvezdev.com",
+          "www.facebook.com"
+        ]
+      },
+      "pages": [
+        {
+          "results": [
+            {
+              "id": "web-cad8ec524120a042",
+              "title": "Свинско месо с картофи на фурна - Рецепта | Gotvach.bg",
+              "url": "https://recepti.gotvach.bg/r-58490-%D0%A1%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%BE_%D0%BC%D0%B5%D1%81%D0%BE_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B8_%D0%BD%D0%B0_%D1%84%D1%83%D1%80%D0%BD%D0%B0",
+              "domain": "recepti.gotvach.bg",
+              "sourceName": "Gotvach.bg",
+              "description": "",
+              "imageUrl": null,
+              "rank": 1,
+              "discoveredAt": "2026-10-17T15:34:46.111Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-c72c86a246f760bc",
+              "title": "Вкусна Рецепта: Свинско с Картофи на Фурна | Foodshop",
+              "url": "https://tastyhouse.bg/dzi/blog/post/vkusna-recepta-svinsko-s-kartofi-na-furna-2",
+              "domain": "tastyhouse.bg",
+              "sourceName": "tastyhouse.bg",
+              "description": "",
+              "imageUrl": null,
+              "rank": 2,
+              "discoveredAt": "2026-10-17T15:34:46.111Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": "0:2",
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        },
+        {
+          "results": [
+            {
+              "id": "web-02220ae66684380a",
+              "title": "Печено свинско с картофи и моркови",
+              "url": "https://www.soulty.bg/blogs/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B8/%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BE-%D1%81%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%BE-%D1%81-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B8",
+              "domain": "soulty.bg",
+              "sourceName": "Щипка Сол",
+              "description": "",
+              "imageUrl": null,
+              "rank": 3,
+              "discoveredAt": "2026-10-17T15:34:46.111Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-2d57bf5c91782e96",
+              "title": "Свинско с картофи",
+              "url": "https://zvezdev.com/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B0/%D1%81%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%BE-%D1%81-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B8",
+              "domain": "zvezdev.com",
+              "sourceName": "Zvezdev",
+              "description": "",
+              "imageUrl": null,
+              "rank": 4,
+              "discoveredAt": "2026-10-17T15:34:46.111Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": "0:4",
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        },
+        {
+          "results": [
+            {
+              "id": "web-0a85991f193c8bb7",
+              "title": "Свинско с картофи на фурна | Petko Nikolov",
+              "url": "https://www.facebook.com/100008674418073/videos/%D1%81%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%BE-%D1%81-%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B8-%D0%BD%D0%B0-%D1%84%D1%83%D1%80%D0%BD%D0%B0/1037537125917147",
+              "domain": "facebook.com",
+              "sourceName": "Facebook · Petko Nikolov",
+              "description": "",
+              "imageUrl": null,
+              "rank": 5,
+              "discoveredAt": "2026-10-17T15:34:46.111Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-fd5c2d27c31fa2a1",
+              "title": "Свинско с картофи на фурна: сочно и хрупкаво",
+              "url": "https://vinoimeze.bg/article/svinsko-s-kartofi-na-furna-sochno-meso-i-hrupkavi-kartofi",
+              "domain": "vinoimeze.bg",
+              "sourceName": "vinoimeze.bg",
+              "description": "",
+              "imageUrl": null,
+              "rank": 6,
+              "discoveredAt": "2026-10-17T15:34:46.111Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": "0:6",
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        },
+        {
+          "results": [
+            {
+              "id": "web-b4b2fdbeec7368da",
+              "title": "Хрупкави картофи със свинско месо на фурна",
+              "url": "https://www.youtube.com/watch?v=2jXEyIbQImE",
+              "domain": "youtube.com",
+              "sourceName": "YouTube · Home kitchen with Danny",
+              "description": "",
+              "imageUrl": null,
+              "rank": 7,
+              "discoveredAt": "2026-10-17T15:34:46.111Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": null,
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        }
+      ]
+    },
+    {
+      "query": "Пълнени чушки",
+      "observations": {
+        "httpStatus": 200,
+        "elapsedMs": 888,
+        "providerSeconds": 0.63,
+        "organicResults": 9,
+        "relevantUniqueRecipeCandidates": 5,
+        "duplicatesBeforeFix": 0,
+        "duplicatesAfterFix": 0,
+        "invalidUrls": 0,
+        "imageMetadataCount": 4,
+        "usefulDescriptionCount": 9,
+        "topFiveDomains": [
+          "www.supichka.com",
+          "recepti.gotvach.bg",
+          "zvezdev.com",
+          "www.facebook.com",
+          "www.youtube.com"
+        ]
+      },
+      "pages": [
+        {
+          "results": [
+            {
+              "id": "web-f179a277d940b865",
+              "title": "Пълнени чушки / пиперки с кайма и ориз",
+              "url": "https://www.supichka.com/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B0/38/%D0%BF%D1%8A%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8-%D1%87%D1%83%D1%88%D0%BA%D0%B8-%D0%BF%D0%B8%D0%BF%D0%B5%D1%80%D0%BA%D0%B8-%D1%81-%D0%BA%D0%B0%D0%B9%D0%BC%D0%B0-%D0%B8-%D0%BE%D1%80%D0%B8%D0%B7",
+              "domain": "supichka.com",
+              "sourceName": "Supichka",
+              "description": "",
+              "imageUrl": null,
+              "rank": 1,
+              "discoveredAt": "2026-10-17T15:34:46.998Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-bc150201eb5d0f65",
+              "title": "Пълнени чушки - 654 Рецепти - Gotvach.bg",
+              "url": "https://recepti.gotvach.bg/palnenichushki",
+              "domain": "recepti.gotvach.bg",
+              "sourceName": "Gotvach.bg",
+              "description": "",
+              "imageUrl": null,
+              "rank": 2,
+              "discoveredAt": "2026-10-17T15:34:46.998Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": "0:2",
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        },
+        {
+          "results": [
+            {
+              "id": "web-3c72546fbf2e02ff",
+              "title": "Пълнени чушки с кайма и ориз",
+              "url": "https://zvezdev.com/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B0/%D0%BF%D1%8A%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8-%D1%87%D1%83%D1%88%D0%BA%D0%B8-%D1%81-%D0%BA%D0%B0%D0%B9%D0%BC%D0%B0-%D0%B8-%D0%BE%D1%80%D0%B8%D0%B7",
+              "domain": "zvezdev.com",
+              "sourceName": "Zvezdev",
+              "description": "",
+              "imageUrl": null,
+              "rank": 3,
+              "discoveredAt": "2026-10-17T15:34:46.998Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-f520fadc5695b71a",
+              "title": "Пълнени чушки с кайма Класика от домашната кухня, която ...",
+              "url": "https://www.facebook.com/bonappeti/videos/%D0%BF%D1%8A%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8-%D1%87%D1%83%D1%88%D0%BA%D0%B8-%D1%81-%D0%BA%D0%B0%D0%B9%D0%BC%D0%B0%D0%BA%D0%BB%D0%B0%D1%81%D0%B8%D0%BA%D0%B0-%D0%BE%D1%82-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B0%D1%82%D0%B0-%D0%BA%D1%83%D1%85%D0%BD%D1%8F-%D0%BA%D0%BE%D1%8F%D1%82%D0%BE-%D0%B2%D0%B8%D0%BD%D0%B0%D0%B3%D0%B8-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B8-%D1%81%D0%BE%D1%87%D0%BD%D0%B0-%D0%BF%D0%BB%D1%8A%D0%BD%D0%BA%D0%B0/1608790006949585",
+              "domain": "facebook.com",
+              "sourceName": "Facebook · Бон Апети / Bon Apeti",
+              "description": "",
+              "imageUrl": null,
+              "rank": 4,
+              "discoveredAt": "2026-10-17T15:34:46.998Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": "0:4",
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        },
+        {
+          "results": [
+            {
+              "id": "web-cd6e69dfa07bd009",
+              "title": "Постни Пълнени Чушки с Ориз. Супер Вкусни и Ароматни!",
+              "url": "https://www.youtube.com/watch?v=ZUYJsM-1ibA",
+              "domain": "youtube.com",
+              "sourceName": "YouTube · Шеф Тодор Димитров",
+              "description": "",
+              "imageUrl": null,
+              "rank": 5,
+              "discoveredAt": "2026-10-17T15:34:46.998Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-d695b75ff6a688a5",
+              "title": "Пълнени чушки с ориз и кайма - Любими рецепти",
+              "url": "https://gotvi.lidl.bg/recipes/palneni-chushki-s-oriz-i-kayma",
+              "domain": "gotvi.lidl.bg",
+              "sourceName": "Lidl.bg",
+              "description": "",
+              "imageUrl": null,
+              "rank": 6,
+              "discoveredAt": "2026-10-17T15:34:46.998Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": "0:6",
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        },
+        {
+          "results": [
+            {
+              "id": "web-61202a4532f14519",
+              "title": "Пълнени чушки с бял сос | Класическа българска рецепта",
+              "url": "https://www.youtube.com/watch?v=B8pTLP3gTec",
+              "domain": "youtube.com",
+              "sourceName": "YouTube · Александър Александров (BeardGainz)",
+              "description": "",
+              "imageUrl": null,
+              "rank": 7,
+              "discoveredAt": "2026-10-17T15:34:46.998Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            },
+            {
+              "id": "web-a00e4fcfac92e5c9",
+              "title": "Пълнени чушки с кайма и ориз на фурна",
+              "url": "https://www.bonapeti.bg/recepti/palneni-chushki-s-kayma-i-oriz-na-furna",
+              "domain": "bonapeti.bg",
+              "sourceName": "Бон Апети",
+              "description": "",
+              "imageUrl": null,
+              "rank": 8,
+              "discoveredAt": "2026-10-17T15:34:46.998Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": "0:8",
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        },
+        {
+          "results": [
+            {
+              "id": "web-a3310337e086ce61",
+              "title": "Пълнени чушки » Zvezdev.com",
+              "url": "https://zvezdev.com/%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D0%B0/%D0%BF%D1%8A%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8-%D1%87%D1%83%D1%88%D0%BA%D0%B8",
+              "domain": "zvezdev.com",
+              "sourceName": "Zvezdev",
+              "description": "",
+              "imageUrl": null,
+              "rank": 9,
+              "discoveredAt": "2026-10-17T15:34:46.998Z",
+              "permission": {
+                "contentPermission": "unknown",
+                "attributionRequired": true,
+                "licenseReference": null,
+                "evidenceReference": null,
+                "imageReuseAllowed": false,
+                "reviewedAt": null,
+                "expiresAt": null
+              },
+              "access": "metadata_only",
+              "limitations": [
+                "Няма документирано разрешение за възпроизвеждане на пълната рецепта."
+              ]
+            }
+          ],
+          "nextCursor": null,
+          "limitations": [
+            "Част от резултатите са само връзки към оригинала. Ограниченията в заявката не са проверени за тези връзки."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+node_modules/
+.next/
+out/
+build/
+.env*
+!.env.example
+*.tsbuildinfo
+.DS_Store
+*.log
+
+/test-results/
+/playwright-report/
+
+# Test coverage, CI summaries and transient files
+coverage/
+/ci-reports/
+/tmp/
+/temp/
+.cache/
+*.tmp
+*.bak
+*.orig
+
+# Local tools, credentials and private keys
+.codex/
+.aws/
+.ssh/
+.npmrc
+credentials.json
+*service-account*.json
+serviceAccount*.json
+*firebase-adminsdk*.json
+*.pem
+*.key
+*.p12
+*.pfx
